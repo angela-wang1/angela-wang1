@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Angela, a software engineer, designer and listener.
-- 🔭 I’m currently a swe intern at [BIONIK](https://www.bioniklabs.com/) and was previously at [TELUS](https://www.telus.com/en/health)
-- 🌱 I’m currently majoring in Biomedical Engineering at UWaterloo with a specialization in devices and options in swe/ai.
+- 🔭 I’m currently a swe intern at 🦾[BIONIK](https://www.bioniklabs.com/) and was previously at ⚕️[TELUS](https://www.telus.com/en/health)
+- 🌱 I’m majoring in Biomedical Engineering at UWaterloo with a specialization in medical devices and options in swe/ai
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I build huge lego models of iconic architectural landmarks.
+- ⚡ Fun fact: I build huge lego models of iconic architectural landmarks
 
 <!--
 **angela-wang1/angela-wang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
