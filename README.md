@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Angela, a software engineer, designer and listener.
 - 🔭 I’m currently a swe intern at [BIONIK](https://www.bioniklabs.com/) and was previously at [TELUS](https://www.telus.com/en/health)
-- 🌱 I’m currently majoring in Biomedical Engineering at UWaterloo with a specialization in devices and options in software engineering/AI.
+- 🌱 I’m currently majoring in Biomedical Engineering at UWaterloo with a specialization in devices and options in swe/ai.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I build huge lego models of iconic architectural landmarks.
 
