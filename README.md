@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Angela. 😄 Pronouns: she/her
+### Hi there 👋 I'm Angela. 
+- 😄 Pronouns: she/her
 
 <!--
 **angela-wang1/angela-wang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
